@@ -1,1 +1,4 @@
 /input
+/working
+*.pth
+*.0
