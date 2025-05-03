@@ -2,3 +2,4 @@
 /working
 *.pth
 *.0
+.env
